@@ -1,13 +1,14 @@
 
 import './App.css';
-import User from './User.js';
+import Header from './header';
 
 
 
 function App() {
   return (
     <div className="App">
-      <User></User>
+     <Header></Header>
+     
     
     </div>
   );
